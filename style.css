@@ -1,0 +1,43 @@
+.cpu{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.buttons{
+
+    display: flex;
+
+    justify-content: space-around;
+}
+
+.button{
+    width: 250px;
+    height: 200px;
+}
+.results {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+}
+.playerInput {
+    font-size: 25px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.pic {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.pictures {
+    width: 200px;
+    height: auto;
+}
+.cpuImg {
+    display: flex;
+    justify-content: center;
+}
